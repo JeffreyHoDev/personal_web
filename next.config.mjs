@@ -2,7 +2,7 @@
 const nextConfig = {
     output: "export",  // <=== enables static exports
     reactStrictMode: true,
-    basePath: "/personal_web"
+    basePath: "/personal_web" 
 };
 
 export default nextConfig;
