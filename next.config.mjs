@@ -5,4 +5,4 @@ const nextConfig = {
     basePath: "/personal_web" 
 };
 
-export default nextConfig;
+module.exports = nextConfig;
