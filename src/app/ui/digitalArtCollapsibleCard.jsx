@@ -13,7 +13,7 @@ const DigitalArtCollapsibleCard = ({title}) => {
                         <h5>Sometimes during my free time I also produce some digital arts just for fun and some are used for personal game assets</h5>
                         <ul>
                             <li className="flex items-center text-slate-900 font-extrabold"><a href="/digitalarts/projectsins" target="_blank" rel="noopener noreferrer">Project Sins (Game)</a><BsBoxArrowInUpRight/></li>
-                            <li className="flex items-center text-slate-900 font-extrabold"><a href="/projects/videostoragecalculator" target="_blank" rel="noopener noreferrer">Others</a><BsBoxArrowInUpRight/></li>
+                            <li className="flex items-center text-slate-900 font-extrabold"><a href="/digitalarts/others" target="_blank" rel="noopener noreferrer">Others</a><BsBoxArrowInUpRight/></li>
                         </ul>
 
                     </div>
